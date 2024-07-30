@@ -17,3 +17,7 @@ const students = {
 const add = function(){
     console.log("hello world")
 }
+
+
+//  stack(primitive) -copy male
+// and heap (non-primitive) memory - refrece male
